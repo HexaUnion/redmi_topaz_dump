@@ -1,0 +1,14 @@
+# missi-user 15 AQ3A.240829.003 OS2.0.204.0.VMGMIXM release-keys
+- manufacturer: xiaomi
+- platform: bengal
+- codename: topaz
+- flavor: missi-user
+- release: 15
+- id: AQ3A.240829.003
+- incremental: OS2.0.204.0.VMGMIXM
+- tags: release-keys
+- fingerprint: Redmi/topaz_global/topaz:13/TKQ1.221114.001/OS2.0.204.0.VMGMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-15-AQ3A.240829.003-OS2.0.204.0.VMGMIXM-release-keys
+- repo: redmi_topaz_dump
